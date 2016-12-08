@@ -22,7 +22,7 @@ if (!is_null($events['events'])) {
 				'text' => $text,
 				
 				'type' => 'text',
-				'1' => $1,
+				'1' => $one,
 			];
 
 			// Make a POST Request to Messaging API to reply to sender
